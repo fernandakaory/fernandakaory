@@ -1,4 +1,4 @@
-### Olá! Eu sou a Fernanda Saito. Seja bem-vindo ao meu portifólio! 👋
+### Olá! Eu sou a Fernanda Saito. Seja bem-vindo(a) ao meu portifólio! 👋
 ##
 Estudante de Engenharia de Software na FIAP.
 <div style="display: inline_block"><br>
